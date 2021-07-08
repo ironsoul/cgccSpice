@@ -1,4 +1,7 @@
--
+- Project Info
+	- Started: [[July 2021]]
+	- Team:
+		-
 - Kitchen - 1F
 - Livingroom
 -
