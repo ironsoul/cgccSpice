@@ -1,4 +1,5 @@
 - Project Info
+  collapsed:: true
 	- Started: [[July 2021]]
 	- Team:
 		- Leads
@@ -6,6 +7,7 @@
 			- [[Omar]]
 			- [[Phil (Phoenix4690)]]
 		- Members
+		  collapsed:: true
 			- [[adrian2301]]
 			- [[Carlo]]
 			- [[Clementk]]
