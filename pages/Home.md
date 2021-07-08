@@ -1,4 +1,4 @@
 - Projects
-	- [[CGCookie Collab 2021]]
+	- [[CGCookie Collab 2021]] #DONE
 	- [[Spice Vendor's House Interior]]
 	-
