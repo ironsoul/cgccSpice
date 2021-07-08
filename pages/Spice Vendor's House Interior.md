@@ -1,2 +1,3 @@
 - Kitchen - 1F
+- Livingroom
 -
