@@ -29,7 +29,7 @@
 	  todo:: 1625722497444
 	- TODO [[Frying Pan Variation 1]]
 	  todo:: 1625722502300
-	- TODO Frying Pan Variation 2
+	- TODO [[Frying Pan Variation 2]]
 	  todo:: 1625722539057
 	-
 - TODO Library
