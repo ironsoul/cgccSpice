@@ -25,6 +25,7 @@
 					- #review - means the model needs to be reviewed before it can be worked on again
 				- Order
 					- #first - start here, no prerequisites
+					- otherwise you'll see a link to a model to make before this one and a model to make after it.
 	- File Access #TODO
 - TODO Bedroom
   doing:: 1625722268704
