@@ -1,7 +1,6 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
-	  collapsed:: true
 		- Leads
 			- [[Blancsh]]
 			- [[Omar]]
@@ -11,6 +10,8 @@
 			- [[Carlo]]
 			- [[Clementk]]
 			- [[ironsoul]]
+				- Dailies #TODO
+					- Port
 			- [[konstantinosk]]
 			- [[Ladymito]]
 	- Communication #TODO
