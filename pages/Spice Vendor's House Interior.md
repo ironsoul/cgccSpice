@@ -38,9 +38,13 @@
 	- TODO [[Mango]]
 	  todo:: 1625722668271
 	- TODO [[Orange]]
-	- TODO Pineapple
+	- TODO [[Pineapple]]
+	- TODO [[Apples]]
+	- TODO [[Ceramic Mug]]
+	  todo:: 1625722722164
 	-
 	  TODO
+	-
 - TODO Library
   todo:: 1625722298941
 - TODO Livingroom
