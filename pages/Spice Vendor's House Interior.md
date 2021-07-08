@@ -31,7 +31,10 @@
 	  todo:: 1625722502300
 	- TODO [[Frying Pan Variation 2]]
 	  todo:: 1625722539057
-	- /todo [[Frying Pan Variation 3]]
+	- TODO [[Frying Pan Variation 3]]
+	  todo:: 1625722626776
+	- TODO [[Watermelon]]
+	- TODO [[Banana]]
 	-
 - TODO Library
   todo:: 1625722298941
