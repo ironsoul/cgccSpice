@@ -14,6 +14,6 @@
 			- Ladymito
 	- Communication #TODO
 	- File Access #TODO
-- Kitchen - 1F
+- Kitchen
 - Livingroom
 -
