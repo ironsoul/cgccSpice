@@ -14,9 +14,11 @@
 			- Ladymito
 	- Communication #TODO
 	- File Access #TODO
-- Bedroom #TODO
+- TODO Bedroom #TODO
+  todo:: 1625722270170
+  doing:: 1625722268704
 - Connecting Bridge #TODO
-- Kitchen
+- Kitchen #TODO
 - Library
 - Livingroom
 - Mill
