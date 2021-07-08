@@ -12,8 +12,8 @@
 			- ironsoul
 			- konstantinosk
 			- Ladymito
-	- Communication
-	- File Access
+	- Communication #TODO
+	- File Access #TODO
 - Kitchen - 1F
 - Livingroom
 -
