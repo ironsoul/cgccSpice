@@ -27,8 +27,9 @@
 - TODO Connecting Bridge
   todo:: 1625722283824
 - DOING Kitchen
-  todo:: 1625722296281
   doing:: 1625722311187
+  todo:: 1625722296281
+	-
 	- TODO [[Stone Floor]]
 	  todo:: 1625722497444
 	- TODO [[Frying Pan Variation 1]]
