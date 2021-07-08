@@ -62,8 +62,13 @@
 	- TODO [[Coffee Maker Variation 2]]
 	  todo:: 1625722960815
 	- TODO [[Bucket Variation 1]]
+	- TODO [[Bucket Variation 2]]
+	  todo:: 1625722992849
+	- TODO [[Bottle Variation 1]]
+	- TODO [[Bottle Variation 2]]
+	  todo:: 1625723006195
 	-
-	-
+	  todo:: 1625723016972
 - TODO Library
   todo:: 1625722298941
 - TODO Livingroom
