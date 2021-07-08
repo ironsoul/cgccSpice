@@ -2,6 +2,8 @@
 	- Started: [[July 2021]]
 	- Team:
 		- Leads
+			- Blancsh
+			- Phil (Phoenix4690)
 		- Mesh Models
 		- Animation
 		- Sound
