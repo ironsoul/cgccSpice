@@ -1,18 +1,18 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
-		- [[Blanchsb]] #model #lead
-		- [[Omar]] #model #lead #review
-		- [[Phil (Phoenix4690)]] #model #lead
-		- [[adrian2301]] #model
-		- [[Carlo]] #model
-		- [[Clementk]] #model
-		- [[ironsoul]] #model
+		- [[Blanchsb]] #modeler #lead
+		- [[Omar]] #modeler #lead #reviewer
+		- [[Phil (Phoenix4690)]] #modeler #lead
+		- [[adrian2301]] #modeler
+		- [[Carlo]] #modeler
+		- [[Clementk]] #modeler
+		- [[ironsoul]] #modeler
 		  collapsed:: true
 			- Dailies #TODO #management
 				- Port one model from the [[Trello Board]] to this Logseq page
 					- I can increase this rate as needed when more members join in.
-		- [[konstantinosk]]
+		- [[konstantinosk]] #modeler
 		- [[Ladymito]]
 	- Communication #TODO
 	  collapsed:: true
