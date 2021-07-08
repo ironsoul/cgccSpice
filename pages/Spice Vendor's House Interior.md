@@ -2,16 +2,16 @@
 	- Started: [[July 2021]]
 	- Team:
 		- Leads
-			- Blancsh
-			- Omar
-			- Phil (Phoenix4690)
+			- [[Blancsh]]
+			- [[Omar]]
+			- [[Phil (Phoenix4690)]]
 		- Members
-			- adrian2301
-			- Carlo
-			- Clementk
-			- ironsoul
-			- konstantinosk
-			- Ladymito
+			- [[adrian2301]]
+			- [[Carlo]]
+			- [[Clementk]]
+			- [[ironsoul]]
+			- [[konstantinosk]]
+			- [[Ladymito]]
 	- Communication #TODO
 		- Discord
 		- Reference Images
