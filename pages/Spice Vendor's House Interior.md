@@ -10,7 +10,7 @@
 				- Port one model from the [[Trello Board]] to this Logseq page
 					- I can increase this rate as needed when more members join in.
 					- be sure to include the image
-				-
+				- Gather up all the activity that happened yesterday and post it on discord
 		- [[konstantinosk]] #modeler
 		- [[Ladymito]] #modeler
 		- [[Omar]] #modeler #lead #reviewer
