@@ -5,16 +5,16 @@
 			- [[Blanchsb]]
 			- [[Omar]]
 			- [[Phil (Phoenix4690)]]
-		- Members
-			- [[adrian2301]]
-			- [[Carlo]]
-			- [[Clementk]]
-			- [[ironsoul]]
-				- Dailies #TODO #management
-					- Port one model from the [[Trello Board]] to this Logseq page
-						- I can increase this rate as needed when more members join in.
-			- [[konstantinosk]]
-			- [[Ladymito]]
+		-
+		- [[adrian2301]]
+		- [[Carlo]]
+		- [[Clementk]]
+		- [[ironsoul]]
+			- Dailies #TODO #management
+				- Port one model from the [[Trello Board]] to this Logseq page
+					- I can increase this rate as needed when more members join in.
+		- [[konstantinosk]]
+		- [[Ladymito]]
 	- Communication #TODO
 	  collapsed:: true
 		- Discord
