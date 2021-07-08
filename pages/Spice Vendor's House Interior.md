@@ -21,7 +21,7 @@
 			- [Trello Board Reference Images](https://trello.com/b/udomdHs5/collab2021-house-interior-workboard)
 		- This Logseq database
 			- Tag Explanations:
-				- #review
+				- #review - means the model needs to be reviewed before it can be worked on again
 				-
 	- File Access #TODO
 - TODO Bedroom
@@ -32,8 +32,9 @@
 - DOING Kitchen
   doing:: 1625722311187
   todo:: 1625722296281
-	- DOING [[Candle Owl Candle]] #review
+	- TODO [[Candle Owl Candle]] #review
 	  doing:: 1625723229365
+	  todo:: 1625723781612
 		- Member: [[Blanchsb]]
 		- Review: #TODO
 		- Order: #first
