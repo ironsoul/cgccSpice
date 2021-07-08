@@ -1,1 +1,2 @@
 - [[Home]]
+- [[Spice Vendor's House Interior]]
