@@ -5,14 +5,14 @@
 		- [[Blanchsb]] #modeler #lead
 		- [[Carlo]] #modeler
 		- [[Clementk]] #modeler
-		- [[Omar]] #modeler #lead #reviewer
-		- [[Phil (Phoenix4690)]] #modeler #lead
 		- [[ironsoul]] #modeler
 		  collapsed:: true
 			- Dailies #TODO #management
 				- Port one model from the [[Trello Board]] to this Logseq page
 					- I can increase this rate as needed when more members join in.
 		- [[konstantinosk]] #modeler
+		- [[Omar]] #modeler #lead #reviewer
+		- [[Phil (Phoenix4690)]] #modeler #lead
 		- [[Ladymito]] #modeler
 	- Communication #TODO
 	  collapsed:: true
