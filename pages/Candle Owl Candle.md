@@ -1,3 +1,2 @@
-- [](https://live-production.wcms.abc-cdn.net.au/b3bd24c5b18a01afd517cdaae1a8ec29?impolicy=wcms_crop_resize&cropH=1008&cropW=1512&xPos=0&yPos=0&width=862&height=575)
-- [](https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg)
+- ![2021_07_08_image.jpeg](https://cdn.logseq.com/%2F84a45d38-b166-4382-8250-89271fc7192220b7ce6f-e004-44dd-832b-3cca31c97a632021_07_08_image.jpeg?Expires=4779324217&Signature=kJtuRiuFfVDC0XTMIXLNB-bZAQGfhuIU3kyvqX21aynTDvUgR~5iEUPOsXP7~wReb0franjFQ5LgZ6XlPfWssrDV3khAVXr-12yFkqdnhkmNmO8~nPNY8Fu4d1QYrRDr-~p4pYzsQMGvE~qE8q-ju9vnNlzH4zBai5VqyeLB2HDrjLELj6-Ya4sRfPzrlusWBuR6f4NO~fcN4JOqh4QWu8JkGPE-ynfnsVznTj63cPs9fZRJQV2vfv77pUG3yzIAPGt08X-iJr0Y2HqCcQGUp-LylzpqCryZENk0ZfkFFHyTuGCfm8hOyn0V8zyLKRp1JQ-HpsoeBWzJqzTErPZGQg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 276, :width 95}
 -
