@@ -1,6 +1,7 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
+	  collapsed:: true
 		- [[adrian2301]] #modeler
 		- [[Blanchsb]] #modeler #lead
 		- [[Carlo]] #modeler
@@ -15,7 +16,6 @@
 		- [[Omar]] #modeler #lead #reviewer
 		- [[Phil (Phoenix4690)]] #modeler #lead
 	- Communication #TODO
-	  collapsed:: true
 		- Discord
 		- Reference Images
 			- [Trello Board Reference Images](https://trello.com/b/udomdHs5/collab2021-house-interior-workboard)
@@ -32,7 +32,7 @@
 	  doing:: 1625723229365
 		- Member: [[Blanchsb]]
 		- Review: #TODO
-		- Order:
+		- Order: #first
 	- TODO [[Stone Floor]]
 	  todo:: 1625722497444
 	- TODO [[Frying Pan Variation 1]]
