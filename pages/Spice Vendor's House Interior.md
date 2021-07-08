@@ -27,7 +27,7 @@
   doing:: 1625722311187
 	- TODO [[Stone Floor]]
 	  todo:: 1625722497444
-	- TODO Frying Pan Variation 1
+	- TODO [[Frying Pan Variation 1]]
 	  todo:: 1625722502300
 	- Frying Pan Variation 2
 	-
