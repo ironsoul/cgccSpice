@@ -3,7 +3,10 @@
 	- Team:
 		- Leads
 			- [[Blanchsb]]
+				- makes models
 			- [[Omar]]
+				- makes models
+				- reviews models
 			- [[Phil (Phoenix4690)]]
 		- Members
 			- [[adrian2301]]
