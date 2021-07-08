@@ -19,4 +19,5 @@
 - Kitchen
 - Library
 - Livingroom
+- Mill
 -
