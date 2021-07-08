@@ -14,7 +14,9 @@
 			- Ladymito
 	- Communication #TODO
 	- File Access #TODO
+- Bedroom
+- Connecting Bridge
 - Kitchen
--
+- Library
 - Livingroom
 -
