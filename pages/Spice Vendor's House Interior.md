@@ -57,8 +57,10 @@
 	- TODO [[Metal Pot Variation 2]]
 	  todo:: 1625722922599
 	- TODO [[Metal Container]]
-	- TODO
+	- TODO [[Coffee Maker Variation 1]]
 	  todo:: 1625722937033
+	-
+	  todo:: 1625722949843
 	-
 - TODO Library
   todo:: 1625722298941
