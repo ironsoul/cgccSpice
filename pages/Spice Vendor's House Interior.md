@@ -3,10 +3,10 @@
 	- Team:
 		- [[adrian2301]] #modeler
 		- [[Blanchsb]] #modeler #lead
-		- [[Omar]] #modeler #lead #reviewer
-		- [[Phil (Phoenix4690)]] #modeler #lead
 		- [[Carlo]] #modeler
 		- [[Clementk]] #modeler
+		- [[Omar]] #modeler #lead #reviewer
+		- [[Phil (Phoenix4690)]] #modeler #lead
 		- [[ironsoul]] #modeler
 		  collapsed:: true
 			- Dailies #TODO #management
