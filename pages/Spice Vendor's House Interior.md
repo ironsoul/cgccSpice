@@ -1,11 +1,9 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
-		- Leads
-			- [[Blanchsb]]
-			- [[Omar]]
-			- [[Phil (Phoenix4690)]]
-		-
+		- [[Blanchsb]]
+		- [[Omar]]
+		- [[Phil (Phoenix4690)]]
 		- [[adrian2301]]
 		- [[Carlo]]
 		- [[Clementk]]
