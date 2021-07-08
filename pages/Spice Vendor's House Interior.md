@@ -1,7 +1,10 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
-		-
+		- Leads
+		- Mesh Models
+		- Animation
+		- Sound
 - Kitchen - 1F
 - Livingroom
 -
