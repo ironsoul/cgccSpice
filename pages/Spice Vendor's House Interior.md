@@ -10,6 +10,7 @@
 			- Clementk
 			- ironsoul
 			- konstantinosk
+			- Ladymito
 	- Communication
 	- File Access
 - Kitchen - 1F
