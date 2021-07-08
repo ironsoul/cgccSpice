@@ -1,6 +1,7 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
+	  collapsed:: true
 		- Leads
 			- [[Blancsh]]
 			- [[Omar]]
