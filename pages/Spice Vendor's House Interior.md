@@ -14,6 +14,7 @@
 			- [[konstantinosk]]
 			- [[Ladymito]]
 	- Communication #TODO
+	  collapsed:: true
 		- Discord
 		- Reference Images
 			- [Trello Board Reference Images](https://trello.com/b/udomdHs5/collab2021-house-interior-workboard)
