@@ -5,7 +5,7 @@
 		- [[Blanchsb]] #modeler #lead
 		- [[Carlo]] #modeler
 		- [[Clementk]] #modeler
-		- [[ironsoul]] #modeler
+		- [[ironsoul]] #modeler #organiser
 			- Dailies #TODO #management
 				- Port one model from the [[Trello Board]] to this Logseq page
 					- I can increase this rate as needed when more members join in.
