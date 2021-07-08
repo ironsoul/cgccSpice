@@ -5,6 +5,8 @@
 		- Mesh Models
 		- Animation
 		- Sound
+	- Communication
+	- File Access
 - Kitchen - 1F
 - Livingroom
 -
