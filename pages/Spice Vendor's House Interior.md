@@ -1,5 +1,4 @@
 - Project Info
-  collapsed:: true
 	- Started: [[July 2021]]
 	- Team:
 		- Leads
@@ -7,7 +6,6 @@
 			- [[Omar]]
 			- [[Phil (Phoenix4690)]]
 		- Members
-		  collapsed:: true
 			- [[adrian2301]]
 			- [[Carlo]]
 			- [[Clementk]]
@@ -31,6 +29,7 @@
 - DOING Kitchen
   doing:: 1625722311187
   todo:: 1625722296281
+  collapsed:: true
 	- DOING [[Candle Owl Candle]] #review
 	  doing:: 1625723229365
 		- Member: [[Blanchsb]]
