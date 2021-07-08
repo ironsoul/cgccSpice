@@ -3,7 +3,7 @@
 	- Team:
 		- Leads
 			- Blancsh
-			- Omar D
+			- Omar
 			- Phil (Phoenix4690)
 		- Members
 			- ironsoul
