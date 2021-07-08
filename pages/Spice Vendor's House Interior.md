@@ -12,6 +12,7 @@
 			- [[ironsoul]]
 				- Dailies #TODO
 					- Port one model from the [[Trello Board]] to this Logseq page
+						- I can increase this rate as needed when more members join in.
 			- [[konstantinosk]]
 			- [[Ladymito]]
 	- Communication #TODO
