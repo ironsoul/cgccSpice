@@ -19,6 +19,7 @@
 		- Discord
 		- Reference Images
 			- [Trello Board Reference Images](https://trello.com/b/udomdHs5/collab2021-house-interior-workboard)
+		- This Logseq
 	- File Access #TODO
 - TODO Bedroom
   doing:: 1625722268704
