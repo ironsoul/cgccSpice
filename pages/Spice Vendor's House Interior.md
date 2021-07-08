@@ -11,7 +11,7 @@
 			- [[Clementk]]
 			- [[ironsoul]]
 				- Dailies #TODO
-					- Port
+					- Port one model from the [[Trello Board]] to this Logseq page
 			- [[konstantinosk]]
 			- [[Ladymito]]
 	- Communication #TODO
