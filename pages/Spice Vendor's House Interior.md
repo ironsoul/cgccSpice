@@ -1,10 +1,10 @@
 - Project Info
 	- Started: [[July 2021]]
 	- Team:
-		- [[Blanchsb]]
-		- [[Omar]]
-		- [[Phil (Phoenix4690)]]
-		- [[adrian2301]]
+		- [[Blanchsb]] #model #lead
+		- [[Omar]] #model #lead #review
+		- [[Phil (Phoenix4690)]] #model #lead
+		- [[adrian2301]] #model
 		- [[Carlo]]
 		- [[Clementk]]
 		- [[ironsoul]]
