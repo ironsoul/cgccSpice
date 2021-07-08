@@ -31,6 +31,7 @@
 	  todo:: 1625722502300
 	- TODO [[Frying Pan Variation 2]]
 	  todo:: 1625722539057
+	- /todo [[Frying Pan Variation 3]]
 	-
 - TODO Library
   todo:: 1625722298941
