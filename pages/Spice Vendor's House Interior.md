@@ -28,7 +28,6 @@
 - DOING Kitchen
   doing:: 1625722311187
   todo:: 1625722296281
-  collapsed:: true
 	- DOING [[Candle Owl Candle]] #review
 	  doing:: 1625723229365
 		- Member: [[Blanchsb]]
