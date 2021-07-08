@@ -21,8 +21,10 @@
 			- [Trello Board Reference Images](https://trello.com/b/udomdHs5/collab2021-house-interior-workboard)
 		- This Logseq database
 			- Tag Explanations:
-				- #review - means the model needs to be reviewed before it can be worked on again
-				-
+				- Status
+					- #review - means the model needs to be reviewed before it can be worked on again
+				- Order
+					- #first - start here, no prerequisites
 	- File Access #TODO
 - TODO Bedroom
   doing:: 1625722268704
