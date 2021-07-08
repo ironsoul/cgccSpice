@@ -11,9 +11,9 @@
 				- Port one model from the [[Trello Board]] to this Logseq page
 					- I can increase this rate as needed when more members join in.
 		- [[konstantinosk]] #modeler
+		- [[Ladymito]] #modeler
 		- [[Omar]] #modeler #lead #reviewer
 		- [[Phil (Phoenix4690)]] #modeler #lead
-		- [[Ladymito]] #modeler
 	- Communication #TODO
 	  collapsed:: true
 		- Discord
