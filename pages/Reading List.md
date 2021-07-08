@@ -1,0 +1,2 @@
+- Miscellaneous
+	- Get started with Logseq, my Daily Workflow
