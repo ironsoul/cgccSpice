@@ -25,6 +25,7 @@
 - DOING Kitchen
   todo:: 1625722296281
   doing:: 1625722311187
+	- Stone Floor
 	-
 - TODO Library
   todo:: 1625722298941
