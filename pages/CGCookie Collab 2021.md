@@ -1,3 +1,3 @@
--
+- #Home
 - The Original Collab Event (April 2021)
 	- TODO import the old management to practice using Logseq
