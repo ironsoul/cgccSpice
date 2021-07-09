@@ -40,7 +40,7 @@
 	  doing:: 1625804512463
 	  todo:: 1625804514077
 	  done:: 1625804516511
-		- Member: [[Blanchsb]]
+		- Member: [[vincav]]
 		- Review: #TODO
 		- Order: #first
 	- TODO [[Spiral Stairs]]
