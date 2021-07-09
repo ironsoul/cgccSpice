@@ -40,8 +40,8 @@
 	  doing:: 1625804512463
 	  todo:: 1625804514077
 	  done:: 1625804516511
-		- Member: [[vincav]]
-		- Review: #TODO
+		- Member: [[vincav81]]
+		- Review: I
 		- Order: #first
 	- TODO [[Spiral Stairs]]
 		- Member: [[Clementk]]
