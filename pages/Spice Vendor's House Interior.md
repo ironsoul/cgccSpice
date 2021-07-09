@@ -15,6 +15,7 @@
 		- [[Ladymito]] #modeler
 		- [[Omar]] #modeler #lead #reviewer
 		- [[Phil (Phoenix4690)]] #modeler #lead
+		-
 	- Communication #TODO
 		- Discord
 		- Reference Images
