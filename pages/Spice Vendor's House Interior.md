@@ -40,8 +40,9 @@
 	  doing:: 1625804512463
 	  todo:: 1625804514077
 	  done:: 1625804516511
+	  collapsed:: true
 		- Member: [[vincav81]]
-		- Review: I
+		- Review: I think it's finished
 		- Order: #first
 	- TODO [[Spiral Stairs]]
 		- Member: [[Clementk]]
