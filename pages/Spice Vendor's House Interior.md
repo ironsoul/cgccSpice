@@ -35,9 +35,10 @@
 - DOING Kitchen
   doing:: 1625722311187
   todo:: 1625722296281
-	- TODO [[Candle Owl Candle]] #review
+	- DONE [[Candle Owl Candle]] #review
 	  doing:: 1625804512463
 	  todo:: 1625804514077
+	  done:: 1625804516511
 		- Member: [[Blanchsb]]
 		- Review: #TODO
 		- Order: #first
